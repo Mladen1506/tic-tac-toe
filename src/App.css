@@ -3,7 +3,8 @@
   height: 100vw;
   display: flex;
   justify-content: center;
-  align-items: center;
+  margin-top: 50px;
+  /* align-items: center; */
 }
 
 body {
@@ -20,7 +21,7 @@ body {
   flex-direction: column;
 }
 
-.row{
+.row {
   flex: 33%;
   display: flex;
   flex-direction: row;
